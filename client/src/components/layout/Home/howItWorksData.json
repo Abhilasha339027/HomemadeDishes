@@ -1,0 +1,17 @@
+[
+  {
+    "h": "Pick Your YummyMaker",
+    "p": "Find your YummyMaker by category or location, select a meal of your choice."
+  },
+
+  {
+    "h": "Confirm Your Order",
+    "p": "Order your favorite meal and pick a delivery date with your prefered YummyMaker.",
+    "img": "../../../media/artboard2.svg"
+  },
+  {
+    "h": "Get Your Order",
+    "p": "Get it delivered or pick it up and meet your YummyMaker",
+    "img": "../../../media/artboard3.svg"
+  }
+]

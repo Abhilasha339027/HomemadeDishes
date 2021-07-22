@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Gilroy-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Gilroy-Bold"), url("./styles/Gilroy-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Gilroy-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Gilroy-Regular"),
+    url("./styles/Gilroy-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "CaviarDreams_Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./styles/CaviarDreams_Bold.ttf");
+}
